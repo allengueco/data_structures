@@ -17,4 +17,4 @@ plugins {
 }
 
 rootProject.name = "data_structures"
-include("app", "list", "utilities")
+include("app", "list", "utilities", "bloom-filter")
